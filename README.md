@@ -39,6 +39,7 @@ aslo go by Zerol0l, I am a experience statistical analysis, and data modeling to
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<img alt="Rust" src="https://raw.githubusercontent.com/ZeroZulu/ZeroZulu.github.io/master/assets/img/icons8-rust-programming-language-96.png" height="50" style="margin: 10px;" />
 <img alt="Custom Gear" src="https://raw.githubusercontent.com/ZeroZulu/ZeroZulu.github.io/master/assets/img/stylized-gear.svg" height="50" style="margin: 10px;" />
 </div>
 
