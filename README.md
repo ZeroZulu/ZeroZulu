@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" margin="20px" width="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <br>
 
-🌱 I’m currently learning **AI Engineering.**
+🌱 I’m currently learning **AI Engineering and Rust.**
 
 ⚡ Fun fact: Passionate about utilizing artificial intelligence
 
