@@ -68,7 +68,7 @@ aslo go by Zerol0l, I am a experience statistical analysis, and data modeling to
  <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/matplotlib.svg" alt="matplotlib" width="40" height="40" /> </a>
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/ZeroZulu/ZeroZulu.github.io/blob/master/assets/img/icons8-flask-64.png" alt="flask" width="40" height="40" /> </a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/ZeroZulu/ZeroZulu.github.io/blob/master/assets/img/icons8-flask-64.png" alt="flask" width="50" height="50" /> </a>
 
 </div>
 
