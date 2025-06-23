@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[ZeroZulu];This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Zerol0l];This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 <h3 align="center">A passionate Data enthusiast</h3> <br>
@@ -20,8 +20,20 @@
 
 ## 👤 About Me 
 
-Hi there, my name is ZeroZulu,
-aslo go by Zerol0l, I am a experience statistical analysis, and data modeling to drive insights and inform strategic decisions. Proficient in tools such as SQL, Python, and Tableau, with a strong focus on data cleaning and artificial intelligence for optimizing performance. Demonstrates a keen ability to enhance operational workflows and improve service quality through structured training and innovative solutions.
+Hi there, my name is Shril Patel, 
+
+I am a New York Institute of Technology graduate with a Bachelor’s degree in Biology, bringing a unique perspective to the fields of Data Science and Analytics. My professional journey began with eight years as a Data Insight and Operations Manager at a small brick-and-mortar business, where I developed a passion for leveraging data to drive strategic decisions. This experience inspired me to pivot my career toward Data Science and Analytics, where I now focus on transforming complex datasets into actionable insights.
+
+I have earned two professional certifications from IBM through Coursera: the IBM Data Analytics Certification and the IBM Data Science Certification. These programs equipped me with advanced skills in data analysis, visualization, and machine learning, which I apply to uncover impactful insights and solve real-world challenges. Proficient in tools such as Python, SQL, and Tableau, I thrive in collaborative environments and am driven by curiosity and a commitment to excellence.
+
+I am eager to join innovative teams that harness data to create meaningful change. Let’s connect to build solutions that make a difference!
+
+Check out my work with the following Repositories:
+
+- [Kaggle](https://github.com/ZeroZulu/Kaggle/tree/main)
+- [IBM Data Analyst Capstone](https://github.com/ZeroZulu/IBM-Data-Analyst-Capstone)
+- [IBM Data Science Capstone](https://github.com/ZeroZulu/IBM-Data-Science-Capstone)
+
 
 <br>
 
@@ -39,7 +51,6 @@ aslo go by Zerol0l, I am a experience statistical analysis, and data modeling to
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<img alt="Rust" src="https://raw.githubusercontent.com/ZeroZulu/ZeroZulu.github.io/master/assets/img/icons8-rust-programming-language-96.png" height="50" style="margin: 10px;" />
 </div>
 
 </td><td valign="top" width="33%">
