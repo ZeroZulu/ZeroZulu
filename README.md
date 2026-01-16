@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Pro;Turning+Data+Into+Decisions;8+Years+of+Making+Sense+of+Chaos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Pro;Turning+Data+Into+Decisions;Building+ML+Systems+That+Matter" alt="Typing SVG" />
 
 <br/>
 
@@ -14,6 +14,9 @@
 </a>
 <a href="https://leetcode.com/u/Zerolol">
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://zer0sandbox-blog.vercel.app">
+  <img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
 </a>
 
 <br/>
@@ -35,9 +38,10 @@ I bridge the gap between **raw data** and **strategic decisions**.
 
 With 8 years as a Data Insight & Operations Manager and a Biology degree from NYIT, I bring analytical rigor and real-world business context to every project.
 
-- 🔭 Currently building **ML pipelines** and exploring **AI Engineering**
-- 🌱 Learning **Rust** because why not add another language to the stack
-- 🎯 Goal: Make data tell stories that drive action
+- 🎓 Currently pursuing **MITx MicroMasters in Statistics & Data Science**
+- 🔭 Building **ML systems** with 90%+ accuracy on real-world problems
+- 🌱 Expanding into **AI Engineering** and **Rust**
+- ✍️ Writing about data science on my [blog](https://zer0sandbox-blog.vercel.app)
 - ⚡ Fun fact: Went from studying cells under microscopes to training neural networks
 
 <br clear="right"/>
@@ -54,13 +58,15 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 ### Languages
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,r,powershell&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,r,js,rust&theme=dark" alt="Languages" />
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-Proficient-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -74,6 +80,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -85,9 +92,10 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-017CEE?style=flat-square&logo=xgboost&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-Viz-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Viz-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
@@ -100,22 +108,22 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <div align="center">
 
-<a href="https://github.com/ZeroZulu/Kaggle/tree/main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=Kaggle&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=NYCResturantHealthInspectionPredictor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/ZeroZulu/IBM-Data-Analyst-Capstone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=IBM-Data-Analyst-Capstone&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/ZeroZulu/AI-Games-Collection-Turning-Data-Science-into-Play">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=AI-Games-Collection-Turning-Data-Science-into-Play&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
 
 <br/>
 
-| Project | What It Shows | Tech Used |
-|:--------|:--------------|:----------|
-| 🏆 **[Kaggle Competitions](https://github.com/ZeroZulu/Kaggle)** | Real-world data challenges, feature engineering, model optimization | Python, Scikit-learn, Pandas |
-| 📊 **[IBM Data Analyst Capstone](https://github.com/ZeroZulu/IBM-Data-Analyst-Capstone)** | Full analytics workflow: collection → wrangling → visualization → dashboards | SQL, Python, Tableau |
-| 🤖 **[IBM Data Science Capstone](https://github.com/ZeroZulu/IBM-Data-Science-Capstone)** | End-to-end ML: preprocessing, model selection, hyperparameter tuning | Python, PyTorch, Flask |
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| 🍽️ **NYC Restaurant Inspector** | ML system predicting health inspection failures with **90% accuracy** across 30K+ establishments | XGBoost, Streamlit, Tableau | [Repo](https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor) ・ [Live Demo](https://nycresturanthealthinspectionpredictor.streamlit.app) ・ [Dashboard](https://public.tableau.com/views/NYCResturantHealthInspection/ExecutiveOverview) |
+| 🎮 **AI Games Collection** | Interactive ML projects: Minimax Tic-Tac-Toe, Entropy-based Wordle Solver, Pathfinding Maze | Python, Streamlit, NumPy | [Repo](https://github.com/ZeroZulu/AI-Games-Collection-Turning-Data-Science-into-Play) |
+| ✍️ **Zer0sandbox Blog** | Data science articles on ML algorithms, prompt engineering, visualization, and portfolio building | Astro, Vercel | [Read →](https://zer0sandbox-blog.vercel.app) |
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -145,10 +153,43 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-Data%20Analytics%20Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<!-- Top Tier -->
+<img src="https://img.shields.io/badge/MITx-Statistics_&_Data_Science_MicroMasters-A31F34?style=for-the-badge&logo=edx&logoColor=white" />
+
+<br/><br/>
+
+<!-- Professional Certifications Row 1 -->
+<img src="https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Data_Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-Data_Engineering-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+
+<br/>
+
+<!-- Professional Certifications Row 2 -->
+<img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<br/>
+
+<!-- Academic/Foundational Row -->
+<img src="https://img.shields.io/badge/Harvard-CS50_AI_with_Python-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepLearning.AI-Math_for_ML-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
 
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Blog" width="28" /> Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://zer0sandbox-blog.vercel.app/posts/vibe-coding-why-ai-powered-development-is-reshaping-software-creation/)
+- 📊 [Your Data Has a Story — Here's How to Make People Listen](https://zer0sandbox-blog.vercel.app/posts/your-data-has-a-story--heres-how-to-make-people-listen/)
+- 💼 [Stop Practicing, Start Showcasing - Portfolio Projects That Land Jobs](https://zer0sandbox-blog.vercel.app/posts/stop-practicing-start-showcasing-portfolio-projects-that-land-data-analyst-jobs/)
+- 🤖 [7 Essential Machine Learning Algorithms Explained Simply](https://zer0sandbox-blog.vercel.app/posts/7-essential-machine-learning-algorithms-explained-simply-2025-guide/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [**Read more on my blog...**](https://zer0sandbox-blog.vercel.app)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -171,6 +212,9 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <a href="https://www.hackerrank.com/profile/hackerrank_pent1">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
+<a href="https://zer0sandbox-blog.vercel.app">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+</a>
 
 <br/>
 <br/>
@@ -181,4 +225,4 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%"/>
 
-</div>****
+</div>
