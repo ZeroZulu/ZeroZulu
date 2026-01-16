@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Pro;Turning+Data+Into+Decisions;Building+ML+Systems+That+Matter" alt="Typing SVG" />
+<a href="https://github.com/ZeroZulu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Pro;Turning+Data+Into+Decisions;Building+ML+Systems+That+Matter" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Animated Badges -->
+<!-- Badges -->
 <a href="https://linkedin.com/in/shril-patel-020504284">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -32,8 +34,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="320" />
-
 I bridge the gap between **raw data** and **strategic decisions**.
 
 With 8 years as a Data Insight & Operations Manager and a Biology degree from NYIT, I bring analytical rigor and real-world business context to every project.
@@ -43,8 +43,6 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 - 🌱 Expanding into **AI Engineering** and **Rust**
 - ✍️ Writing about data science on my [blog](https://zer0sandbox-blog.vercel.app)
 - ⚡ Fun fact: Went from studying cells under microscopes to training neural networks
-
-<br clear="right"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -92,7 +90,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <br/>
 
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-017CEE?style=flat-square&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-017CEE?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-Viz-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Viz-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -106,19 +104,6 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=NYCResturantHealthInspectionPredictor&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/ZeroZulu/AI-Games-Collection-Turning-Data-Science-into-Play">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeroZulu&repo=AI-Games-Collection-Turning-Data-Science-into-Play&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br/>
-
 | Project | Description | Tech | Links |
 |:--------|:------------|:-----|:------|
 | 🍽️ **NYC Restaurant Inspector** | ML system predicting health inspection failures with **90% accuracy** across 30K+ establishments | XGBoost, Streamlit, Tableau | [Repo](https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor) ・ [Live Demo](https://nycresturanthealthinspectionpredictor.streamlit.app) ・ [Dashboard](https://public.tableau.com/views/NYCResturantHealthInspection/ExecutiveOverview) |
@@ -131,8 +116,14 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroZulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3CACF7&icon_color=3CACF7" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroZulu&theme=tokyonight&hide_border=true&background=0D1117&ring=3CACF7&fire=FF6B6B&currStreakLabel=3CACF7" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroZulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3CACF7&icon_color=3CACF7&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroZulu&theme=tokyonight&hide_border=true&background=0D1117&ring=3CACF7&fire=FF6B6B&currStreakLabel=3CACF7" height="180" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3CACF7" height="150" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -182,12 +173,10 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Blog" width="28" /> Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - 🔥 [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://zer0sandbox-blog.vercel.app/posts/vibe-coding-why-ai-powered-development-is-reshaping-software-creation/)
 - 📊 [Your Data Has a Story — Here's How to Make People Listen](https://zer0sandbox-blog.vercel.app/posts/your-data-has-a-story--heres-how-to-make-people-listen/)
 - 💼 [Stop Practicing, Start Showcasing - Portfolio Projects That Land Jobs](https://zer0sandbox-blog.vercel.app/posts/stop-practicing-start-showcasing-portfolio-projects-that-land-data-analyst-jobs/)
 - 🤖 [7 Essential Machine Learning Algorithms Explained Simply](https://zer0sandbox-blog.vercel.app/posts/7-essential-machine-learning-algorithms-explained-simply-2025-guide/)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read more on my blog...**](https://zer0sandbox-blog.vercel.app)
 
