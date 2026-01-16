@@ -32,7 +32,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> About Me
+## 🧑‍💻 About Me
 
 I bridge the gap between **raw data** and **strategic decisions**.
 
@@ -47,7 +47,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> Featured Projects
+## 🏆 Featured Projects
 
 | Project | Description | Tech | Links |
 |:--------|:------------|:-----|:------|
@@ -113,20 +113,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroZulu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3CACF7&icon_color=3CACF7&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroZulu&theme=tokyonight&hide_border=true&background=0D1117&ring=3CACF7&fire=FF6B6B&currStreakLabel=3CACF7" height="180" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroZulu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3CACF7" height="150" alt="Top Languages"/>
-</div>
-
-<br/>
+## 📊 GitHub Analytics
 
 <!-- Contribution Snake Animation -->
 <div align="center">
@@ -140,7 +127,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Cap" width="28" /> Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -171,7 +158,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Blog" width="28" /> Latest Blog Posts
+## 📝 Latest Blog Posts
 
 - 🔥 [Vibe Coding: Why AI-Powered Development Is Reshaping Software Creation](https://zer0sandbox-blog.vercel.app/posts/vibe-coding-why-ai-powered-development-is-reshaping-software-creation/)
 - 📊 [Your Data Has a Story — Here's How to Make People Listen](https://zer0sandbox-blog.vercel.app/posts/your-data-has-a-story--heres-how-to-make-people-listen/)
