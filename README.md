@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a href="https://github.com/ZeroZulu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Pro;Turning+Data+Into+Decisions;Building+ML+Systems+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CACF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shril+Patel+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;Turning+Data+Into+Decisions;Building+ML+Systems+That+Matter" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,13 +36,13 @@
 
 I bridge the gap between **raw data** and **strategic decisions**.
 
-With 8 years as a Data Insight & Operations Manager and a Biology degree from NYIT, I bring analytical rigor and real-world business context to every project.
+With 7 years in data & operations management and a Biology degree from NYIT, I bring analytical rigor and real-world business context to every project. My background in life sciences directly shapes how I approach complex, noisy datasets — from scRNA-seq gene expression to 28M+ urban mobility records.
 
 - 🎓 Currently pursuing **MITx MicroMasters in Statistics & Data Science**
-- 🔭 Building **ML systems** with 90%+ accuracy on real-world problems
-- 🌱 Expanding into **AI Engineering** and **Rust**
+- 🔭 Building **production ML systems** — end-to-end, from ingestion to monitored deployment
+- 🌱 Expanding into **AI Engineering**, **MLOps**, and **Rust**
 - ✍️ Writing about data science on my [blog](https://zer0sandbox-blog.vercel.app)
-- ⚡ Fun fact: Went from studying cells under microscopes to training neural networks
+- ⚡ Fun fact: Went from studying cells under microscopes to classifying them with XGBoost
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -78,7 +78,7 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td align="center" width="33%">
@@ -94,6 +94,8 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 ![Tableau](https://img.shields.io/badge/Tableau-Viz-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Viz-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 </td>
 </tr>
@@ -104,11 +106,28 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 ## 🏆 Featured Projects
 
+### 🔬 ML Engineering & Deployed Systems
+
 | Project | Description | Tech | Links |
 |:--------|:------------|:-----|:------|
-| 🍽️ **NYC Restaurant Inspector** | ML system predicting health inspection failures with **90% accuracy** across 30K+ establishments | XGBoost, Streamlit, Tableau | [Repo](https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor) ・ [Live Demo](https://nycresturanthealthinspectionpredictor.streamlit.app) ・ [Dashboard](https://public.tableau.com/views/NYCResturantHealthInspection/ExecutiveOverview) |
-| 🎮 **AI Games Collection** | Interactive ML projects: Minimax Tic-Tac-Toe, Entropy-based Wordle Solver, Pathfinding Maze | Python, Streamlit, NumPy | [Repo](https://github.com/ZeroZulu/AI-Games-Collection-Turning-Data-Science-into-Play) |
-| ✍️ **Zer0sandbox Blog** | Data science articles on ML algorithms, prompt engineering, visualization, and portfolio building | Astro, Vercel | [Read →](https://zer0sandbox-blog.vercel.app) |
+| 🚕 **Urban Demand Predictor** | End-to-end ML pipeline predicting NYC taxi demand by zone & hour from 28.8M trips. XGBoost R²=0.95 · FastAPI serving live SHAP explanations · Evidently AI drift monitoring · full Docker stack | XGBoost, FastAPI, PostgreSQL, MLflow, SHAP, Docker, Streamlit | [Repo](https://github.com/ZeroZulu/urban-demand-predictor) ・ [Live Demo](https://urban-demand-predictor-lq2ja9lznlgwe7klggp8md.streamlit.app) ・ [API Docs](https://urban-demand-predictor.onrender.com/docs) |
+| 💳 **Credit Card Fraud Detection** | Benchmarked 10 ML/DL models on 284,807 transactions (0.17% fraud rate). Time-Aware LightGBM F1=0.876, PR-AUC=0.879. Autoencoder as secondary anomaly detection layer | LightGBM, XGBoost, SMOTE, PyTorch, Scikit-learn | [Repo](https://github.com/ZeroZulu) |
+| 🍽️ **NYC Restaurant Inspector** | End-to-end prediction of health inspection failures across 27K+ establishments. AUC-ROC=0.70, 45+ engineered features from 200K+ DOHMH records. Streamlit + SHAP explainability | XGBoost, Streamlit, SHAP, Tableau | [Repo](https://github.com/ZeroZulu/NYCResturantHealthInspectionPredictor) ・ [Live Demo](https://nycresturanthealthinspectionpredictor.streamlit.app) ・ [Dashboard](https://public.tableau.com/views/NYCResturantHealthInspection/ExecutiveOverview) |
+
+### 📊 Analytics & Business Intelligence
+
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| 📈 **Marketing Incrementality & Lift** | Causal inference pipeline (DiD, PSM, Synthetic Control) on 50K users / 10 regions. Identified 67% attribution inflation — true lift 11.2% vs. reported 24.5%. Quantified $600K in over-attributed spend from $2.4M budget | Python, Scikit-learn, Statsmodels | [Repo](https://github.com/ZeroZulu) |
+| 👟 **Adidas Global Catalogue 2026** | End-to-end EDA on 44,888 SKUs across 10 countries. FX normalization, NLP content-based recommender (TF-IDF + cosine similarity), K-Means clustering, 4-model price prediction. Surfaced $58 US–EU median price gap and 60%+ SKU concentration risk | Python, Pandas, Plotly, Scikit-learn, NLTK | [Repo](https://github.com/ZeroZulu/Adidas-catalogue-2026-Analysis) |
+| 🎮 **LTV Forecasting Dashboard** | Gradient Boosting R²=0.891 on 10K-player dataset (industry benchmark: 0.60–0.75). Quantified referral ($714 LTV, 143× ROI) vs. paid social ($429 LTV, 34× ROI) | Python, Scikit-learn, Streamlit, Tableau, Plotly | [Repo](https://github.com/ZeroZulu) |
+
+### 🧬 Bioinformatics & Domain ML
+
+| Project | Description | Tech | Links |
+|:--------|:------------|:-----|:------|
+| 🔬 **Immune Cell Type Classifier** | Classifies 8 human immune cell types (CD4+T, CD8+T, NK, B cell, Monocyte, DC, Treg, Plasma) from scRNA-seq data. Leakage-free PCA pipeline · 100-trial Optuna Bayesian tuning · SHAP attribution · UMAP dashboard | XGBoost, Scanpy, Optuna, SHAP, UMAP, Streamlit | [Repo](https://github.com/ZeroZulu/Immune-Cell-Type-Classifier) ・ [Dashboard](https://immune-cell-type-classifier-sajvphyapp3vfcgsgr5hrnp.streamlit.app) |
+| ❤️ **Heart Disease Prediction** | Benchmarked 5 classifiers on Cleveland dataset (270 patients, 13 features). Logistic Regression: 85.2% accuracy, AUC-ROC=0.90. Key finding: asymptomatic patients have 70.5% disease rate — higher than symptomatic, surfacing silent ischemia risk | Python, Scikit-learn, Statsmodels | [Repo](https://github.com/ZeroZulu) |
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -131,27 +150,32 @@ With 8 years as a Data Insight & Operations Manager and a Biology degree from NY
 
 <div align="center">
 
-<!-- Top Tier -->
-<img src="https://img.shields.io/badge/MITx-Statistics_&_Data_Science_MicroMasters-A31F34?style=for-the-badge&logo=edx&logoColor=white" />
+<!-- In Progress -->
+<img src="https://img.shields.io/badge/MITx-Statistics_&_Data_Science_MicroMasters_(In_Progress)-A31F34?style=for-the-badge&logo=edx&logoColor=white" />
 
 <br/><br/>
 
-<!-- Professional Certifications Row 1 -->
+<!-- Harvard -->
+<img src="https://img.shields.io/badge/Harvard-CS50_AI_with_Python-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
+<img src="https://img.shields.io/badge/Harvard-CS50_Introduction_to_CS-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
+
+<br/><br/>
+
+<!-- IBM Row -->
 <img src="https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM-Data_Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM-Data_Engineering-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 
 <br/>
 
-<!-- Professional Certifications Row 2 -->
+<!-- Google + Microsoft -->
 <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 <br/>
 
-<!-- Academic/Foundational Row -->
-<img src="https://img.shields.io/badge/Harvard-CS50_AI_with_Python-A51C30?style=for-the-badge&logo=edx&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepLearning.AI-Math_for_ML-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
+<!-- DeepLearning.AI -->
+<img src="https://img.shields.io/badge/DeepLearning.AI-Math_for_ML_&_Data_Science-FF6F00?style=for-the-badge&logo=deeplearning.ai&logoColor=white" />
 
 </div>
 
